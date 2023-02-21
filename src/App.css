@@ -1,0 +1,16 @@
+.navbar{
+  background-color:white;
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  display: flex;
+  justify-content:end;
+}
+.navbar a{
+  color: midnightblue;
+  font-size:30px;
+  font-family: cursive;
+  text-decoration: none;
+  padding:15px;
+}
+.navbar a:hover{
+  color: darkgrey;
+}
